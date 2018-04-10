@@ -2,14 +2,19 @@
 === CREDIT ===
 ==============
 
-Science   : A. Burguera, F. Bonin and J.L. Lisani
-Code      : A. Burguera.
-Contact   : antoni.burguera@uib.es
-Reference :
+Science    : A. Burguera, F. Bonin and J.L. Lisani
+Code       : A. Burguera.
+Contact    : antoni.burguera@uib.es
+References :
+
 A. Burguera, F. Bonin-Font, J.L. Lisani and A.B. Petro.
 Towards Automatic Visual Sea Grass Detection in Underwater Areas of Ecological Interest.
 In IEEE International Conference on Emerging Technologies and Factory Automation, Berlin, 2016.
 
+F. Bonin-Font, A. Burguera and J. L. Lisani
+Visual Discrimination and Large Area Mapping of Posidonia Oceanica Using a Lightweight AUV
+Inn IEEE Access, vol. 5, pp. 24479-24494, 2017.
+doi: 10.1109/ACCESS.2017.2764998
 
 ===========================
 === BUILD TEST PROGRAMS ===
